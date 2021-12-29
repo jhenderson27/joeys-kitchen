@@ -1,0 +1,9 @@
+body {
+    background-color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, .description, .ingredients, .steps {
+    background-color: rgb(174, 174, 255);
+}
+
