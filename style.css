@@ -5,5 +5,15 @@ body {
 
 h1, .description, .ingredients, .steps {
     background-color: rgb(174, 174, 255);
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
 }
 
+img {
+    padding: 0px;
+    margin: 10px;
+    border: 2px solid black;
+    align-content: center;
+    
+}
